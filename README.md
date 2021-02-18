@@ -1,0 +1,1 @@
+# Project_Plant_Leaf_Image_Preprocessing_for_Disease_Detection_And_Plant_Classification
